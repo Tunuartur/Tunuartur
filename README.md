@@ -1,8 +1,6 @@
 ## Olá eu sou o Artur 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 Cursando ADS
-- 😄 Pronouns: ...
+- 💻 Cursando ADS
 
 <div>
   <a href="https://github.com/Tunuartur">

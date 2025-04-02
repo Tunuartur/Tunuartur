@@ -28,7 +28,7 @@
   <a href="mailto:tunuartur@gmail.comh">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.linkedin.com/in/artur-santos-tunu-45875016a" target="_blank">
+  <a href="https://www.linkedin.com/in/artur-santos-tunu-45875016a" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+</a>
 </div>

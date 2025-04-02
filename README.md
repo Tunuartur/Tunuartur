@@ -1,6 +1,6 @@
 ## Olá eu sou o Artur 👋
 
-- 💻 Cursando ADS
+- 💻 Cursando Análise e Desenvolvimento de Sistemas na Impacta
 
 <div>
   <a href="https://github.com/Tunuartur">
